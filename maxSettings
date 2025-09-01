@@ -6,9 +6,9 @@
 
     "ads_free": "",
 
-    "admob_id": "ca-app-pub-2633316054880622~8486975359",
-    "admob_app_open": "/23120430036,23029069462/ellipi.messenger_AppOpen_Rasool",
-    "admob_interstitial": "/23120430036,23029069462/ellipi.messenger_Interstitial_Rasool",
+    "admob_id": "",
+    "admob_app_open": "",
+    "admob_interstitial": "",
     "admob_native": "",
 
     "ads_native_main": "true",
@@ -36,7 +36,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "false",
-    "mini_text": "Connect to the unrestricted internet using Pul Vpn",
-    "mini_link": "https://t.me/pul_vpn"
+    "mini_alert": "true",
+    "mini_text": "Follow us on Telegram.",
+    "mini_link": "https://t.me/sktech_000"
 }
