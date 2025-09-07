@@ -27,8 +27,8 @@
 
     "blacklist": "",
     "force_join": "true",
-    "invisible": "false",
-    "show_deleted": "false",
+    "invisible": "true",
+    "show_deleted": "true",
     "url": "https://mtrb0.website",
 
     "xmod": "true",
@@ -39,6 +39,6 @@
     "mini_alert": "true",
     "mini_text": "•Follow us on Blazegram 
 •Powered By Veron
-•Developer 𝘽𝙡𝙖𝙯𝙚 @Telemyte",
+•Developer 𝐕ᴇʀᴏɴ • ꭗ‌ • ρ𝘴ꪗᥴɧꪮ ❰ #𝐓𝐅Ꮗ ❱",
     "mini_link": "https://t.me/Blazegram_official"
 }
