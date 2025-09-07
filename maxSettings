@@ -26,7 +26,7 @@
     "full_instead_native": "false",
 
     "blacklist": "",
-    "force_join": "false",
+    "force_join": "true",
     "invisible": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
@@ -38,5 +38,5 @@
 
     "mini_alert": "true",
     "mini_text": "Follow us on Telegram.",
-    "mini_link": "https://t.me/sktech_000"
+    "mini_link": "https://t.me/Blazegramofficial"
 }
